@@ -1,0 +1,36 @@
+void primMST(List graph)
+{
+    List notUsedE=File();  //неиспользованные ребра
+    int CountNotUsedE = 9;
+    int CountNotUsedV = 6;
+    int* notUsedV = new int[6];  //неиспользованные вершины
+    notUsedV[0] = -1;
+    for (int i = 1; i < 6; i++)
+    {
+        notUsedV[i] = i;
+    }
+    while (CountNotUsedV > 0)
+    {
+        int minE = -1; //номер наименьшего ребра
+        int q = 0;
+        //поиск наименьшего ребра
+        while (graph.first->next != nullptr)
+        {
+            if (notUsedV[notUsedE.first->ver1] != -1 && notUsedV[notUsedE.first->ver2] != -1 || notUsedV[notUsedE.first->ver2] != -1 && notUsedV[notUsedE.first->ver1] != -1)
+            {
+                if (minE != -1)
+                {
+                    if (notUsedE.first->weight < notUsedE.last->weight)
+                    {
+                        minE = q;
+                    }
+                }
+                else 
+                {
+                    minE = q;
+                }
+            }
+            q++;
+        }
+    }
+}

@@ -1,0 +1,14 @@
+default_random_engine randEng(time(NULL));
+    uniform_real_distribution<double> randNumb(0, 1); // от 1.0 до 50.0
+    double val;
+    ofstream out;  
+    out.open("input10000.txt"); 
+    if (out.is_open())
+    {
+        for (int i = 0; i < 10000; ++i) 
+        {
+            val = randNumb(randEng);
+            out <<round(val * 100) / 100 << endl;
+        }  
+    }
+    out.close();

@@ -1,0 +1,4 @@
+﻿  Graph.cpp
+C:\Users\dimaa\source\repos\lab_6\lab_6\Graph.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\dimaa\source\repos\lab_6\lab_6\List.h(4,2): error C2011: Task::List: переопределение типа "class"
+C:\Users\dimaa\source\repos\lab_6\lab_6\List.h(3): message : см. объявление "Task::List"

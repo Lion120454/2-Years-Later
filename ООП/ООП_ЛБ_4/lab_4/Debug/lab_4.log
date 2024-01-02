@@ -1,0 +1,8 @@
+﻿  Class.cpp
+C:\Users\dimaa\source\repos\lab_4\lab_4\Class.cpp(189,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\dimaa\source\repos\lab_4\lab_4\Class.cpp(192,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\dimaa\source\repos\lab_4\lab_4\Class.cpp(199,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\dimaa\source\repos\lab_4\lab_4\Class.cpp(236,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\dimaa\source\repos\lab_4\lab_4\Class.cpp(241,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\dimaa\source\repos\lab_4\lab_4\Class.cpp(253,27): warning C4018: <=: несоответствие типов со знаком и без знака
+  lab_4.vcxproj -> C:\Users\dimaa\source\repos\lab_4\Debug\lab_4.exe

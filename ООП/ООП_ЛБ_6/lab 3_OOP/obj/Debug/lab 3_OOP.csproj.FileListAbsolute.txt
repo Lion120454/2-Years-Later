@@ -1,0 +1,21 @@
+C:\Users\Lion125666\source\repos\lab 3_OOP\lab 3_OOP\bin\Debug\lab 3_OOP.exe.config
+C:\Users\Lion125666\source\repos\lab 3_OOP\lab 3_OOP\bin\Debug\lab 3_OOP.exe
+C:\Users\Lion125666\source\repos\lab 3_OOP\lab 3_OOP\bin\Debug\lab 3_OOP.pdb
+C:\Users\Lion125666\source\repos\lab 3_OOP\lab 3_OOP\obj\Debug\lab 3_OOP.csproj.AssemblyReference.cache
+C:\Users\Lion125666\source\repos\lab 3_OOP\lab 3_OOP\obj\Debug\lab 3_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Lion125666\source\repos\lab 3_OOP\lab 3_OOP\obj\Debug\lab 3_OOP.exe
+C:\Users\Lion125666\source\repos\lab 3_OOP\lab 3_OOP\obj\Debug\lab 3_OOP.pdb
+D:\ООП\ООП_ЛБ_6\lab 3_OOP\bin\Debug\lab 3_OOP.exe.config
+D:\ООП\ООП_ЛБ_6\lab 3_OOP\bin\Debug\lab 3_OOP.exe
+D:\ООП\ООП_ЛБ_6\lab 3_OOP\bin\Debug\lab 3_OOP.pdb
+D:\ООП\ООП_ЛБ_6\lab 3_OOP\obj\Debug\lab 3_OOP.csproj.AssemblyReference.cache
+D:\ООП\ООП_ЛБ_6\lab 3_OOP\obj\Debug\lab 3_OOP.csproj.CoreCompileInputs.cache
+D:\ООП\ООП_ЛБ_6\lab 3_OOP\obj\Debug\lab 3_OOP.exe
+D:\ООП\ООП_ЛБ_6\lab 3_OOP\obj\Debug\lab 3_OOP.pdb
+G:\ООП\ООП_ЛБ_6\lab 3_OOP\bin\Debug\lab 3_OOP.exe.config
+G:\ООП\ООП_ЛБ_6\lab 3_OOP\bin\Debug\lab 3_OOP.exe
+G:\ООП\ООП_ЛБ_6\lab 3_OOP\bin\Debug\lab 3_OOP.pdb
+G:\ООП\ООП_ЛБ_6\lab 3_OOP\obj\Debug\lab 3_OOP.csproj.AssemblyReference.cache
+G:\ООП\ООП_ЛБ_6\lab 3_OOP\obj\Debug\lab 3_OOP.csproj.CoreCompileInputs.cache
+G:\ООП\ООП_ЛБ_6\lab 3_OOP\obj\Debug\lab 3_OOP.exe
+G:\ООП\ООП_ЛБ_6\lab 3_OOP\obj\Debug\lab 3_OOP.pdb

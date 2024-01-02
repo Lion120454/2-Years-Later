@@ -1,0 +1,11 @@
+D:\ООП\ООП_ЛБ_7\ООП_ЛБ_7\bin\Debug\ООП_ЛБ_7.exe.config
+D:\ООП\ООП_ЛБ_7\ООП_ЛБ_7\bin\Debug\ООП_ЛБ_7.exe
+D:\ООП\ООП_ЛБ_7\ООП_ЛБ_7\bin\Debug\ООП_ЛБ_7.pdb
+D:\ООП\ООП_ЛБ_7\ООП_ЛБ_7\obj\Debug\ООП_ЛБ_7.csproj.AssemblyReference.cache
+D:\ООП\ООП_ЛБ_7\ООП_ЛБ_7\obj\Debug\ООП_ЛБ_7.csproj.CoreCompileInputs.cache
+D:\ООП\ООП_ЛБ_7\ООП_ЛБ_7\obj\Debug\ООП_ЛБ_7.exe
+D:\ООП\ООП_ЛБ_7\ООП_ЛБ_7\obj\Debug\ООП_ЛБ_7.pdb
+D:\ООП\+ООП_ЛБ_7\ООП_ЛБ_7\obj\Debug\ООП_ЛБ_7.csproj.AssemblyReference.cache
+D:\ООП\+ООП_ЛБ_7\ООП_ЛБ_7\obj\Debug\ООП_ЛБ_7.csproj.CoreCompileInputs.cache
+D:\ООП\+ООП_ЛБ_7\ООП_ЛБ_7\obj\Debug\ООП_ЛБ_7.exe
+D:\ООП\+ООП_ЛБ_7\ООП_ЛБ_7\obj\Debug\ООП_ЛБ_7.pdb
